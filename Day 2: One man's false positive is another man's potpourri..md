@@ -73,6 +73,7 @@ Even “good” actions (like updating systems) should be verified. Glitch’s h
 This investigation taught me that SOC work requires patience, attention to detail, and an open mind. Alerts might seem alarming at first glance, but with the right tools and methods, I can uncover the truth and help keep systems secure.
 
 **Answers**
+
 *What is the name of the account causing all the failed login attempts?* **service_admin**
 
 *How many failed logon attempts were observed?* **6791**
