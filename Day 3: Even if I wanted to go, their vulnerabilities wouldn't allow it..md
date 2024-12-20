@@ -86,6 +86,7 @@ The attack followed a structured process:
 By investigating with ELK (Operation Blue), I identified key actions of the attacker, such as uploading the `shell.php` file and executing commands. Through Operation Red, I explored the exploitation process, from uploading the malicious file to achieving RCE. This investigation highlights the importance of secure development practices, proactive monitoring, and robust incident response plans to mitigate and prevent such attacks.
 
 **Answers**
+
 *BLUE: Where was the web shell uploaded to? Answer format: /directory/directory/directory/filename.php* **/media/images/rooms/shell.php**
 
 *BLUE: What IP address accessed the web shell?* **10.11.83.34**
