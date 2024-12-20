@@ -90,7 +90,8 @@ Conducted attacks during Beijing business hours, revealing their location.
 
 By analyzing malicious files, paying attention to OPSEC mistakes, and tracing digital footprints, I was able to uncover critical details about the attacker. In this case, the sloppy operational security of “M.M.” made it possible to identify them. Investigations like this show how even small clues can unravel a larger story, giving beginners like you and me the confidence to dive into cybersecurity investigations.
 
-**Answers**:
+**Answers**
+
 *Looks like the song.mp3 file is not what we expected! Run "exiftool song.mp3" in your terminal to find out the author of the song. Who is the author?* **Tyler Ramsbey**
 
 *The malicious PowerShell script sends stolen info to a C2 server. What is the URL of this C2 server?* **http://papash3ll.thm/data**
